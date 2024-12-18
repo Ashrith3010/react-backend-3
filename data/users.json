@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "Manu",
+      "password": "123",
+      "email": "nagashrith02@gmail.com",
+      "phone": "7995404090",
+      "type": "ngo",
+      "createdAt": "2024-11-06T04:59:33.719Z",
+      "organization": "Manu Old age home",
+      "area": "Hyderabad"
+    },
+    {
+      "id": "2",
+      "username": "Dp",
+      "password": "123",
+      "email": "ashrith6974@gmail.com",
+      "phone": "7780704690",
+      "type": "ngo",
+      "createdAt": "2024-11-06T05:00:43.091Z",
+      "organization": "Dp Orphanage",
+      "area": "Hyderabad",
+      "notifications": true,
+      "emailUpdates": true,
+      "privacyMode": true
+    },
+    {
+      "id": "3",
+      "username": "liki",
+      "password": "123",
+      "email": "badisalikithasri@gmail.com",
+      "phone": "7396225303",
+      "type": "donor",
+      "createdAt": "2024-11-06T05:01:01.564Z"
+    },
+    {
+      "id": "4",
+      "username": "Adi Waskas",
+      "password": "123456",
+      "email": "adiwaskas@gmail.com",
+      "phone": "7778889991",
+      "type": "ngo",
+      "createdAt": "2024-11-06T05:03:14.360Z",
+      "organization": "ADIWASI VIKAS SHODH SANSTHAN BANSWARA",
+      "area": "Jaipur"
+    },
+    {
+      "id": "5",
+      "username": "Noahs Ark",
+      "password": "123456",
+      "email": "noahsark24@gmail.com",
+      "phone": "6783451127",
+      "type": "ngo",
+      "createdAt": "2024-11-06T05:04:52.579Z",
+      "organization": "Noahs Ark",
+      "area": "Kolkata"
+    },
+    {
+      "id": "6",
+      "username": "Marpu Foundation ",
+      "password": "123456",
+      "email": "Marpufoundation@gmail.com",
+      "phone": "7867856784",
+      "type": "ngo",
+      "createdAt": "2024-11-06T05:06:12.103Z",
+      "organization": "Marpu Foundation (NGO)",
+      "area": "Chennai"
+    },
+    {
+      "id": "7",
+      "username": "asdasas",
+      "password": "asdasd",
+      "email": "asd@gmail.com",
+      "phone": "1234567890",
+      "type": "donor",
+      "createdAt": "2024-11-06T05:52:52.899Z"
+    },
+    {
+      "id": "8",
+      "username": "praneeth",
+      "password": "123",
+      "email": "shindepraneeth@gmail.com",
+      "phone": "0987654321",
+      "type": "donor",
+      "createdAt": "2024-11-06T10:26:41.898Z"
+    }
+  ]
+}
