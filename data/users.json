@@ -84,6 +84,26 @@
       "phone": "0987654321",
       "type": "donor",
       "createdAt": "2024-11-06T10:26:41.898Z"
+    },
+    {
+      "id": "9",
+      "username": "Amir",
+      "password": "123",
+      "email": "amir123@gmail.com",
+      "phone": "9876556789",
+      "type": "donor",
+      "createdAt": "2024-12-18T07:20:10.473Z"
+    },
+    {
+      "id": "10",
+      "username": "Rajaa",
+      "password": "rajaa",
+      "email": "rajadelux123@gmail.com",
+      "phone": "8766788767",
+      "type": "ngo",
+      "createdAt": "2024-12-18T07:24:23.168Z",
+      "organization": "Raja delux org",
+      "area": "Hyderabad"
     }
   ]
 }
