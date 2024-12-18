@@ -32,7 +32,10 @@
       "email": "badisalikithasri@gmail.com",
       "phone": "7396225303",
       "type": "donor",
-      "createdAt": "2024-11-06T05:01:01.564Z"
+      "createdAt": "2024-11-06T05:01:01.564Z",
+      "notifications": true,
+      "emailUpdates": true,
+      "privacyMode": true
     },
     {
       "id": "4",
